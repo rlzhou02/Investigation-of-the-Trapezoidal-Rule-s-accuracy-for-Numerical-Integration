@@ -1,4 +1,4 @@
-# Investigation-of-the-Trapezoidal-Rule-s-accuracy-for-Numerical-Integration\
+# Investigation of the Trapezoidal Rule's accuracy for Numerical Integration 
 
 This is my Math Internal Assessment (Math IA) for International Baccalaureate Diploma Program (IBDP).
 
